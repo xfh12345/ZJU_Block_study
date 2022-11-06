@@ -1,0 +1,47 @@
+.container {
+    width: 1000px;
+    height: 1000px;
+
+    background: #F2F3F4;
+}
+
+.main {
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.textcontent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.mytitle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.proposal {
+    padding: 10px;
+}
+
+.operation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.buttons {
+    height: 30px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
