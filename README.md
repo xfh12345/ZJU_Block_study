@@ -218,6 +218,20 @@ npm install -D web3
 npm run start
 ```
 	之后在浏览器中就可以进入网页，开始操作
-## 关键界面和流程截图
-a   
+## 关键界面和流程截图  
 ![开始界面](/image/1.png)
+![开始界面](/image/2.png)
+![开始界面](/image/3.png)
+![开始界面](/image/4.png)
+![开始界面](/image/5.png)
+![开始界面](/image/6.png)
+![开始界面](/image/7.png)
+![开始界面](/image/8.png)
+![开始界面](/image/9.png)
+![开始界面](/image/10.png)
+![开始界面](/image/11.png)
+![开始界面](/image/12.png)
+![开始界面](/image/13.png)
+![开始界面](/image/14.png)
+![开始界面](/image/15.png)
+![开始界面](/image/16.png)
